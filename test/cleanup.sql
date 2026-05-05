@@ -1,0 +1,2 @@
+--Do not change this file
+DROP INDEX IF EXISTS IDX_CONTACT_INFO_EMAIL;
